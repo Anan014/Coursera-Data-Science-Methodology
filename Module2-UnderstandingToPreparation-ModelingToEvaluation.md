@@ -36,3 +36,5 @@ In this module, you will learn the essential steps data scientists take when wor
 ---
 
 By completing this module, you will develop a strong foundation in **data preparation, modeling, and evaluation**, equipping you with **practical skills** for future data science challenges.
+
+<!-- From Understanding to Preparation Done -->
